@@ -22,5 +22,5 @@ echo "hello world";
   
 or use number to be ol tag  \
 such as 1. 2. 3. \
-&lt;a href="http://www.thaiall.com"&lt;thaiall&lt;/a&gl;
+"http://www.thaiall.com
 
